@@ -21,6 +21,7 @@
         "symfony/runtime": "6.4.3",
         "symfony/twig-bundle": "6.1.*",
         "symfony/ux-turbo": "^2.0",
+        "symfony/var-exporter": "6.2",
         "symfony/webpack-encore-bundle": "^1.13",
         "symfony/yaml": "6.1.*",
         "twig/extra-bundle": "^2.12|^3.0",
